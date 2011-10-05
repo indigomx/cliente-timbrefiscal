@@ -1,0 +1,6 @@
+== Cliente Timbrefiscal
+
+Cliente para el WebService de Timbrefiscal http://timbrefiscal.mx para timbrar CFDI
+
+Recibe un xml haciendo binding con jaxb a un objeto Comprobante al cual se le
+agrega el timbre obtenido del servicio.
